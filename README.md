@@ -17,6 +17,7 @@ Ce programme en C démontre une simulation d'affichage multithreadée simple en 
 Pour compiler et exécuter le programme :
 
 `gcc -o space_invader space_invader.c -lpthread`
+
 `./simulation [nombre_iterations]`
 
 Remplacez `[nombre_iterations]` par le nombre d'itérations que vous souhaitez exécuter, ou laissez vide pour utiliser la valeur par défaut.
