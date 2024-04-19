@@ -10,7 +10,7 @@ Ce programme en C démontre une simulation d'affichage multithreadée simple en 
 - **Contrôle des Itérations** : Le nombre d'itérations peut être ajusté en passant un argument lors du lancement du programme. Sinon, une valeur par défaut est utilisée.
 
 ## Prérequis
-- Un compilateur C (comme GCC).
+- Un compilateur C.
 - Un système d'exploitation supportant les pthreads et les sémaphores POSIX.
 
 ## Compilation et Exécution
