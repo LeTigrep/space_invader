@@ -1,4 +1,4 @@
-# Simulation d'Affichage Multithreadée
+# Affichage space invader Multithreadé
 
 ## Vue d'ensemble
 Ce projet a été réalisé lors de ma 2e année de licence informatique.
